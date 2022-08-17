@@ -1,5 +1,3 @@
-73 lines (67 sloc)  2.38 KB
-
 // import user model
 const { User } = require('../models');
 // import sign token function from auth
