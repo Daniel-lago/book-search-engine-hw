@@ -57,6 +57,3 @@ Made by [Daniel-lago](https://github.com/Daniel-lago)
 <br>
 
 ### ©️2022 Daniel Lago
-
-
-
